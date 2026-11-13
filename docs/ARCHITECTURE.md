@@ -19,7 +19,7 @@ define cómo se construiría un prototipo educativo de acceso remoto desde cero.
 
 ```
 app/src/main/java/com/raenydesk/
-├── MainActivity.kt                  #宿主 Compose + NavHost
+├── MainActivity.kt                  # Shell de Compose + NavHost
 ├── ui/
 │   ├── theme/                       # Material 3: colores, tipos, forma (branding RaenyDesk)
 │   ├── home/                        # HomeScreen + HomeViewModel (ID 9 dígitos, estado En espera/Conectado)
